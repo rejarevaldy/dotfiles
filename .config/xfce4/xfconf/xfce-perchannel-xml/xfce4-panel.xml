@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-panel" version="1.0">
+  <property name="configver" type="empty"/>
+  <property name="panels" type="array">
+    <value type="int" value="1"/>
+    <property name="panel-1" type="empty">
+      <property name="position" type="string" value="p=6;x=683;y=15"/>
+      <property name="length" type="uint" value="100"/>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="size" type="uint" value="29"/>
+      <property name="background-style" type="uint" value="0"/>
+      <property name="background-alpha" type="empty"/>
+      <property name="enter-opacity" type="empty"/>
+      <property name="leave-opacity" type="empty"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="1"/>
+        <value type="int" value="35"/>
+        <value type="int" value="7"/>
+        <value type="int" value="33"/>
+        <value type="int" value="43"/>
+        <value type="int" value="10"/>
+        <value type="int" value="42"/>
+        <value type="int" value="12"/>
+        <value type="int" value="15"/>
+        <value type="int" value="2"/>
+      </property>
+      <property name="disable-struts" type="bool" value="false"/>
+      <property name="icon-size" type="uint" value="14"/>
+      <property name="background-rgba" type="array">
+        <value type="double" value="0.180392"/>
+        <value type="double" value="0.203922"/>
+        <value type="double" value="0.211765"/>
+        <value type="double" value="1.000000"/>
+      </property>
+      <property name="autohide-behavior" type="uint" value="0"/>
+    </property>
+  </property>
+  <property name="plugins" type="empty">
+    <property name="plugin-1" type="string" value="pager">
+      <property name="rows" type="uint" value="1"/>
+      <property name="miniature-view" type="bool" value="false"/>
+    </property>
+    <property name="plugin-2" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-3" type="empty">
+      <property name="items" type="empty"/>
+    </property>
+    <property name="plugin-4" type="empty">
+      <property name="items" type="empty"/>
+    </property>
+    <property name="plugin-5" type="empty">
+      <property name="items" type="empty"/>
+    </property>
+    <property name="plugin-6" type="empty">
+      <property name="show-handle" type="empty"/>
+      <property name="middle-click" type="empty"/>
+    </property>
+    <property name="plugin-7" type="empty">
+      <property name="expand" type="empty"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-8" type="empty">
+      <property name="names-visible" type="empty"/>
+      <property name="show-frame" type="empty"/>
+    </property>
+    <property name="plugin-9" type="empty"/>
+    <property name="plugin-10" type="empty"/>
+    <property name="plugin-11" type="empty"/>
+    <property name="plugin-12" type="empty">
+      <property name="enable-keyboard-shortcuts" type="empty"/>
+      <property name="enable-mpris" type="empty"/>
+      <property name="mixer-command" type="empty"/>
+      <property name="show-notifications" type="empty"/>
+      <property name="mpris-players" type="string" value="firefox.instance15888;firefox.instance1721;firefox.instance1887;firefox.instance2755;firefox.instance2770;firefox.instance3535;firefox.instance4966;firefox.instance5084;firefox.instance5650;firefox.instance5850;firefox.instance7106;firefox.instance8464"/>
+    </property>
+    <property name="plugin-13" type="empty">
+      <property name="digital-format" type="empty"/>
+    </property>
+    <property name="plugin-15" type="string" value="systray">
+      <property name="square-icons" type="bool" value="true"/>
+      <property name="names-ordered" type="array">
+        <value type="string" value="uget-gtk"/>
+        <value type="string" value="steam"/>
+        <value type="string" value="thunar"/>
+      </property>
+      <property name="names-hidden" type="array">
+        <value type="string" value="steam"/>
+        <value type="string" value="thunar"/>
+        <value type="string" value="uget-gtk"/>
+      </property>
+      <property name="size-max" type="uint" value="16"/>
+    </property>
+    <property name="plugin-33" type="string" value="clock">
+      <property name="digital-format" type="string" value="%A  //  %R"/>
+      <property name="tooltip-format" type="string" value="%A %d %B %Y"/>
+    </property>
+    <property name="plugin-35" type="string" value="tasklist">
+      <property name="show-handle" type="bool" value="false"/>
+      <property name="show-labels" type="bool" value="true"/>
+    </property>
+    <property name="plugin-42" type="string" value="power-manager-plugin"/>
+    <property name="plugin-43" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+  </property>
+</channel>

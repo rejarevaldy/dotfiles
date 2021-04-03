@@ -1,0 +1,33 @@
+[global_config]
+  window_state = maximise
+  tab_position = hidden
+  broadcast_default = off
+  title_transmit_bg_color = "#000000"
+  inactive_color_offset = 1.0
+  suppress_multiple_term_dialog = True
+  title_font = Noto Mono 15
+[keybindings]
+[profiles]
+  [[default]]
+    icon_bell = False
+    background_color = "#0a0a0a"
+    background_darkness = 1.0
+    background_type = transparent
+    cursor_color = "#aaaaaa"
+    font = Ubuntu Mono 13
+    foreground_color = "#ffffff"
+    show_titlebar = False
+    scrollbar_position = hidden
+    scroll_on_keystroke = False
+    palette = "#000000:#aa0000:#00aa00:#aa5500:#0000aa:#aa00aa:#00aaaa:#aaaaaa:#555555:#ff5555:#55ff55:#ffff55:#5555ff:#ff55ff:#55ffff:#ffffff"
+    use_system_font = False
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+      profile = default
+[plugins]

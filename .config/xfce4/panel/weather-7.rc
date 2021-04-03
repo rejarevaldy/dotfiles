@@ -1,0 +1,26 @@
+loc_name=Korea, Republic of
+msl=5
+timezone=Asia/Seoul
+cache_file_max_age=172800
+power_saving=true
+units_temperature=0
+units_pressure=0
+units_windspeed=0
+units_precipitation=0
+units_altitude=0
+model_apparent_temperature=0
+round=true
+single_row=true
+tooltip_style=1
+forecast_layout=1
+forecast_days=5
+scrollbox_animate=true
+theme_dir=/home/zu0107/.config/xfce4/weather/icons/Clima-W
+show_scrollbox=true
+scrollbox_lines=1
+scrollbox_color=#000000000000
+scrollbox_use_color=false
+label0=3
+label1=17
+label2=9
+

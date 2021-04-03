@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-notifyd" version="1.0">
+  <property name="notify-location" type="empty"/>
+  <property name="theme" type="empty"/>
+  <property name="initial-opacity" type="empty"/>
+  <property name="expire-timeout" type="empty"/>
+  <property name="primary-monitor" type="empty"/>
+  <property name="do-fadeout" type="empty"/>
+  <property name="applications" type="empty">
+    <property name="known_applications" type="array">
+      <value type="string" value="Firefox"/>
+      <value type="string" value="nm-applet"/>
+      <value type="string" value="uGet"/>
+      <value type="string" value="Xfce volume daemon"/>
+      <value type="string" value="xfce4-power-manager"/>
+      <value type="string" value="xfce4-settings-helper"/>
+    </property>
+  </property>
+</channel>

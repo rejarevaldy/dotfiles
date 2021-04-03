@@ -1,0 +1,13 @@
+.tasklist image {
+
+background: rgba(255, 0, 0, 0);
+
+-gtk-icon-transform: scale(0);
+
+}
+
+.tasklist label {
+
+margin: 0px 0px 0px -23px;
+
+}
