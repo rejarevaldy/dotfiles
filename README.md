@@ -1,5 +1,5 @@
 ## System Info
-+ **OS**: Mint
++ **OS**: Linux Mint
 + **Shell**: Bash
 + **Terminal**: Terminator
 + **Browser**: Firefox
