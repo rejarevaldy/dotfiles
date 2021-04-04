@@ -6,6 +6,7 @@
 + **GTK Theme**: [oomox juicy](https://github.com/caffeine01/arch-monochrome)
 + **File Manager**: nautilus
 
+<br>
 ## Screenshot
 
 <p align="center">
