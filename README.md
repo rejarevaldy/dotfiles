@@ -1,4 +1,11 @@
 # dotfiles
+## System Info
++ **OS**: Mint
++ **Shell**: Bash
++ **Terminal**: Terminator
++ **Browser**: Firefox
++ **GTK Theme**: [oomox juicy](https://github.com/caffeine01/arch-monochrome)
++ **File Manager**: nautilus
 
 <h1> Screenshot </h1>
 
