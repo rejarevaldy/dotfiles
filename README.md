@@ -7,6 +7,7 @@
 + **File Manager**: nautilus
 
 <br>
+
 ## Screenshot
 
 <p align="center">
