@@ -1,5 +1,7 @@
 ## System Info
 + **OS**: Linux Mint
++ **DE** : XFCE
++ **DWM** : XFWM
 + **Shell**: Bash
 + **Terminal**: Terminator
 + **Browser**: Firefox
