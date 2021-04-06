@@ -96,11 +96,9 @@ alias xampp='cd /opt/lampp && sudo ./manager-linux-x64.run'
 alias graph='git log --all --decorate --oneline --graph'
 alias sdisk='ncdu'
 alias vlenv='virtualenv -p python3'
-alias djangoins='pip3 install Django==3.1.7'
 alias djangostart='django-admin startproject'
 alias djangorun='python3 manage.py runserver'
 
-# Alias's to show disk space and space used in a folder
 alias diskspace="du -S | sort -n -r |more"
 alias folders='du -h --max-depth=1'
 alias folderssort='find . -maxdepth 1 -type d -print0 | xargs -0 du -sk | sort -rn'
@@ -108,18 +106,17 @@ alias tree='tree -CAhF --dirsfirst'
 alias treed='tree -CAFd'
 alias mountedinfo='df -hT'
 
-# Search command line history
 alias h="history | grep "
-
-# alias to show the date
 alias date='date "+%Y-%m-%d %A %T %Z"'
-
-# alias power
 alias lock='xflock4'
 alias suspend='sudo pm-suspend'
 alias hibernate='sudo pm-hibernate'
+alias konek='ping 1.1.1.1'
+alias lt='tree'
+alias nfetch='neofetch'
+alias todoedit='gedit /home/revv/Documents/todo'
+alias todolist='cat /home/revv/Documents/todo'
 
-# Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
 alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'
 
@@ -197,20 +194,20 @@ prompt_git() {
 }
 
 
-usernamecolor=$(tput setaf 7);
+usernamecolor=$(tput setaf 15);
 locationcolor=$(tput setaf 240);
-workingdirectorycolor=$(tput setaf 7);
+workingdirectorycolor=$(tput setaf 15);
 white=$(tput setaf 15);
-grey=$(tput setaf 15);
-gitstatuscolor=$(tput setaf 7);
+grey=$(tput setaf 245);
+gitstatuscolor=$(tput setaf 15);
 bold=$(tput bold);
 reset=$(tput sgr0);
 
 PS1="\[\033]0;\w\007\]"; # Displays current working directory as title of the terminal
-PS1+="\[${grey}\]>> ";
-PS1+="\[${locationcolor}\]\h"; # Displays host/device
+PS1+="\[${grey}\]<< ";
+PS1+="\[${white}\]\h"; # Displays host/device
 PS1+="\[${locationcolor}\]//";
-PS1+="\[${locationcolor}\]\u"; # Displays username
+PS1+="\[${white}\]\u"; # Displays username
 
 
 PS1+="\[${grey}\] >\[${workingdirectorycolor}\]>\[${grey}\]> \[${workingdirectorycolor}\]";
@@ -218,7 +215,7 @@ PS1+="\[${workingdirectorycolor}\]\w"; # Displays base path of current working d
 
 PS1+="\$(prompt_git \"\[${grey}\] >\[${gitstatuscolor}\]>\[${grey}\]> \[${gitstatuscolor}\]\" \"\[${gitstatuscolor}\]\")"; # Displays git status
 PS1+="\n";
-PS1+="\[${reset}\]\[${grey}\]<< ";
+PS1+="\[${grey}\]>> \[${reset}\]";
 export PS1;
 
 # Quickly find out external IP address for your device by typing 'xip'

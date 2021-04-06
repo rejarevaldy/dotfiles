@@ -7,19 +7,22 @@
   suppress_multiple_term_dialog = True
   title_font = Noto Mono 15
 [keybindings]
+  go_down = <Shift>Down
+  go_left = <Shift>Left
 [profiles]
   [[default]]
     icon_bell = False
-    background_color = "#0a0a0a"
+    background_color = "#0f0f0f"
     background_darkness = 1.0
     background_type = transparent
     cursor_color = "#aaaaaa"
     font = Ubuntu Mono 13
-    foreground_color = "#ffffff"
+    foreground_color = "#eeeeec"
     show_titlebar = False
     scrollbar_position = hidden
     scroll_on_keystroke = False
-    palette = "#000000:#aa0000:#00aa00:#aa5500:#0000aa:#aa00aa:#00aaaa:#aaaaaa:#555555:#ff5555:#55ff55:#ffff55:#5555ff:#ff55ff:#55ffff:#ffffff"
+    scrollback_infinite = True
+    palette = "#000000:#242424:#484848:#6d6d6d:#919191:#b6b6b6:#dadada:#ffffff:#000000:#242424:#484848:#6d6d6d:#919191:#b6b6b6:#dadada:#ffffff"
     use_system_font = False
 [layouts]
   [[default]]
