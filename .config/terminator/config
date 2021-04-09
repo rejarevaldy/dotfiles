@@ -12,17 +12,17 @@
 [profiles]
   [[default]]
     icon_bell = False
-    background_color = "#0f0f0f"
+    background_color = "#050505"
     background_darkness = 1.0
     background_type = transparent
     cursor_color = "#aaaaaa"
-    font = Ubuntu Mono 13
-    foreground_color = "#eeeeec"
+    font = Inconsolata Medium 13
+    foreground_color = "#c5c8c7"
     show_titlebar = False
     scrollbar_position = hidden
     scroll_on_keystroke = False
     scrollback_infinite = True
-    palette = "#000000:#242424:#484848:#6d6d6d:#919191:#b6b6b6:#dadada:#ffffff:#000000:#242424:#484848:#6d6d6d:#919191:#b6b6b6:#dadada:#ffffff"
+    palette = "#1d1f20:#cb352b:#198845:#fba824:#3a71ed:#a36ac7:#3a71ed:#c5c8c7:#1d1f20:#cb352b:#198845:#fba824:#3a71ed:#a36ac7:#3a71ed:#c5c8c7"
     use_system_font = False
 [layouts]
   [[default]]
