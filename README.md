@@ -15,11 +15,11 @@
 <br>
 
 <p align="center">
-        <img src="/screenshot/SS1" />
+        <img src="/screenshot/SS1.png" />
 </p>
 
 <br>
 
 <p align="center">
-        <img src="/screenshot/SS2" />
+        <img src="/screenshot/SS2.png" />
 </p>
