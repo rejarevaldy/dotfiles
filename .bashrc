@@ -93,11 +93,8 @@ alias ll='ls -alF'
 alias la='ls -A'
 alias l='ls -CF'
 alias xampp='cd /opt/lampp && sudo ./manager-linux-x64.run'
-alias graph='git log --all --decorate --oneline --graph'
+
 alias sdisk='ncdu'
-alias vlenv='virtualenv -p python3'
-alias djangostart='django-admin startproject'
-alias djangorun='python3 manage.py runserver'
 
 alias diskspace="du -S | sort -n -r |more"
 alias folders='du -h --max-depth=1'
@@ -116,6 +113,21 @@ alias lt='tree'
 alias nfetch='neofetch'
 alias todoedit='gedit /home/revv/Documents/todo'
 alias todolist='cat /home/revv/Documents/todo'
+
+#Github Alias
+
+alias commit='git commit -m '
+alias modified='git commit -ma'
+alias push='git push'
+alias stats='git status'
+alias graph='git log --all --decorate --oneline --graph'
+
+#Django Alias
+alias vlenv='virtualenv -p python3'
+alias djangorun='python3 manage.py runserver'
+alias migrate='python3 manage.py migrate'
+alias makemigrate='python3 manage.py makemigrations'
+
 
 #   sleep 10; alert
 alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'
