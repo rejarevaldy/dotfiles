@@ -8,12 +8,9 @@
 + **GTK Theme**: [Oomox Juicy](https://github.com/caffeine01/arch-monochrome)
 + **File Manager**: Nautilus
 
-# No_Border-XFWM-Theme
+## No_Border-XFWM-Theme
 
 A simple no border XFWM theme....
-
-![alt text](http://i.imgur.com/xwUGwI8.png "empty theme")
-
 ## Installation
 
 1. sudo mkdir -p /usr/share/themes/empty/xfwm4
