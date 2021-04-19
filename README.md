@@ -4,6 +4,7 @@
 + **DWM** : XFWM
 + **Shell**: Bash
 + **Terminal**: Terminator
++ + **Text Editor**: Visual Studio Code
 + **Browser**: Firefox
 + **GTK Theme**: [Oomox Juicy](https://github.com/caffeine01/arch-monochrome)
 + **File Manager**: Nautilus
