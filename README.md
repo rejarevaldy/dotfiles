@@ -8,6 +8,8 @@
 + **GTK Theme**: [Oomox Juicy](https://github.com/caffeine01/arch-monochrome)
 + **File Manager**: Nautilus
 
+<br>
+
 ## Installation
 
 1. sudo mkdir -p /usr/share/themes/empty/xfwm4
