@@ -8,7 +8,6 @@
 + **GTK Theme**: [Oomox Juicy](https://github.com/caffeine01/arch-monochrome)
 + **File Manager**: Nautilus
 
-## No_Border-XFWM-Theme
 ## Installation
 
 1. sudo mkdir -p /usr/share/themes/empty/xfwm4
@@ -36,4 +35,4 @@
 
 
 ### Credit
-[XFWM](https://github.com/furycd001/No_Border-XFWM_Theme/blob/master/README.md)
++ **XFWM** [Github](https://github.com/furycd001/No_Border-XFWM_Theme/blob/master/README.md)
