@@ -4,6 +4,7 @@
 + **DWM** : XFWM
 + **Shell**: Bash
 + **Terminal**: Terminator
++ **Text Editor**: Visual Studio Code
 + **Browser**: Firefox
 + **GTK Theme**: [Oomox Juicy](https://github.com/caffeine01/arch-monochrome)
 + **File Manager**: Nautilus
@@ -33,6 +34,13 @@
 
 <p align="center">
         <img src="/screenshot/SS2.png" />
+</p>
+
+
+<br>
+
+<p align="center">
+        <img src="/screenshot/SS3.png" />
 </p>
 
 
