@@ -30,19 +30,6 @@
         <img src="/screenshot/SS1.png" />
 </p>
 
-<br>
-
-<p align="center">
-        <img src="/screenshot/SS2.png" />
-</p>
-
-
-<br>
-
-<p align="center">
-        <img src="/screenshot/SS3.png" />
-</p>
-
 
 ### Credit
 + **XFWM** [Github](https://github.com/furycd001/No_Border-XFWM_Theme/blob/master/README.md)
