@@ -1,13 +1,23 @@
 ## System Info
 + **OS**: Linux Mint
 + **DE** : XFCE
-+ **DWM** : XFWM
++ **WM** : XFWM  
 + **Shell**: Bash
 + **Terminal**: Terminator
 + **Text Editor**: Visual Studio Code
 + **Browser**: Firefox
 + **GTK Theme**: [Oomox Juicy](https://github.com/caffeine01/arch-monochrome)
 + **File Manager**: Nautilus
++ **Panel** : XFCE-4-PANEL 
+  + **Whisker Menu**  
+  + **XFCE-Appmenu** 
+  + **Workspace Switcher** 
+  + **Seperator** 
+  + **Clock** 
+  + **Power Manager Plugin**
+  + **Pulse Audio Plugin**
+  + **XAPP Status**
+  + **Notification Area**  
 
 <br>
 
