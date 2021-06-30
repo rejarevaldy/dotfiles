@@ -37,7 +37,7 @@
 <br>
 
 <p align="center">
-        <img src="/screenshot/SS1.png" />
+        <img src="/screenshot/SS-1.png" />
 </p>
 
 
