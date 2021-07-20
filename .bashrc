@@ -110,7 +110,7 @@ alias suspend='sudo pm-suspend'
 alias hibernate='sudo pm-hibernate'
 alias konek='ping 1.1.1.1'
 alias lt='tree'
-alias nfetch='neofetch'
+alias neofetch='clear && neofetch'
 alias todoedit='gedit /home/revv/Documents/todo'
 alias todolist='cat /home/revv/Documents/todo'
 

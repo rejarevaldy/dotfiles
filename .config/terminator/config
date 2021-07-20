@@ -1,5 +1,4 @@
 [global_config]
-  window_state = maximise
   tab_position = hidden
   broadcast_default = off
   title_transmit_bg_color = "#000000"
@@ -12,18 +11,19 @@
 [profiles]
   [[default]]
     icon_bell = False
-    background_color = "#1a1a1a"
+    background_color = "#1e2021"
     background_darkness = 1.0
     background_type = transparent
     cursor_color = "#aaaaaa"
-    font = Inconsolata Medium 13
+    font = Inconsolata Medium 11
     foreground_color = "#ffffff"
     show_titlebar = False
     scrollbar_position = hidden
     scroll_on_keystroke = False
     scrollback_infinite = True
-    palette = "#141414:#ff5555:#98ec65:#ffcc33:#00aaff:#aa88ff:#88ddff:#cccccc:#414141:#ff8888:#b6f292:#ffd966:#33bbff:#cebbff:#bbecff:#ffffff"
+    palette = "#21222c:#ff5555:#50fa7b:#ffcb6b:#82aaff:#c792ea:#8be9fd:#f8f8f2:#545454:#ff6e6e:#69ff94:#ffcb6b:#d6acff:#ff92df:#a4ffff:#f8f8f2"
     use_system_font = False
+    use_theme_colors = True
 [layouts]
   [[default]]
     [[[window0]]]
