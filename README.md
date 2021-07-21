@@ -11,7 +11,6 @@
 + **Panel** : XFCE-4-PANEL 
     + Whisker Menu  
     + XFCE-Appmenu 
-    + Workspace Switcher 
     + Seperator 
     + Clock 
     + Power Manager Plugin
