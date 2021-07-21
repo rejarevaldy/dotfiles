@@ -27,7 +27,7 @@
 <br>
 
 <p align="center">
-        <img src="/screenshot/SS-2.png" />
-        <img src="/screenshot/SS-3.png" />
+        <img src="/screenshot/SS2.png" />
+        <img src="/screenshot/SS3.png" />
 </p>
 
