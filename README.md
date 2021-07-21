@@ -3,20 +3,21 @@
 + **DE** : XFCE
 + **WM** : XFWM  
 + **Shell**: Bash
++ **Font**: Inconsolata
 + **Terminal**: Terminator
 + **Text Editor**: Visual Studio Code
 + **Browser**: Firefox
 + **GTK Theme**: Dracula
-+ **File Manager**: Nautilus
++ **File Manager**: Thunar
 + **Panel** : XFCE-4-PANEL 
-    + Whisker Menu  
-    + XFCE-Appmenu 
-    + Seperator 
-    + Clock 
-    + Power Manager Plugin
-    + Pulse Audio Plugin
-    + XAPP Status
-    + Notification Area  
+            + Whisker Menu  
+            + XFCE-Appmenu 
+            + Seperator 
+            + Clock 
+            + Power Manager Plugin
+            + Pulse Audio Plugin
+            + XAPP Status
+            + Notification Area  
 
 <br>
 
