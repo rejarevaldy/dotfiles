@@ -10,14 +10,14 @@
 + **GTK Theme**: Dracula
 + **File Manager**: Thunar
 + **Panel** : XFCE-4-PANEL 
-            + Whisker Menu  
-            + XFCE-Appmenu 
-            + Seperator 
-            + Clock 
-            + Power Manager Plugin
-            + Pulse Audio Plugin
-            + XAPP Status
-            + Notification Area  
+	+ Whisker Menu  
+	+ XFCE-Appmenu 
+	+ Seperator 
+	+ Clock 
+	+ Power Manager Plugin
+	+ Pulse Audio Plugin
+	+ XAPP Status
+	+ Notification Area  
 
 <br>
 
