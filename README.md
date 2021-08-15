@@ -1,4 +1,6 @@
-<h1 align='center'>System info</h1>
+# [DRACULA](https://github.com/revaldy-30/dotfiles/Dracula)
+
+### System Info</h1>
 
 + **OS**: [Linux Mint](https://linuxmint.com/)
 + **DE** : [XFCE](https://xfce.org/)
@@ -15,7 +17,7 @@
 <br><br>
 
 
-<h1 align='center'>Screenshot</h1>
+### Screenshot
 
 <p align="center">
         <img src="/screenshot/SS2.png" />
