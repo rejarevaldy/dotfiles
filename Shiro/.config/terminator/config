@@ -1,0 +1,35 @@
+[global_config]
+  handle_size = 1
+  tab_position = hidden
+  broadcast_default = off
+  title_transmit_bg_color = "#000000"
+  inactive_color_offset = 1.0
+  suppress_multiple_term_dialog = True
+  title_font = Noto Mono 15
+[keybindings]
+  go_down = <Super>Down
+  go_left = <Super>Left
+[profiles]
+  [[default]]
+    icon_bell = False
+    background_color = "#171a1f"
+    background_darkness = 1.0
+    cursor_color = "#aaaaaa"
+    font = Inconsolata Medium 11
+    foreground_color = "#eeeeec"
+    show_titlebar = False
+    scrollbar_position = hidden
+    scroll_on_keystroke = False
+    scrollback_infinite = True
+    palette = "#21222c:#ff5555:#50fa7b:#ffcb6b:#82aaff:#c792ea:#8be9fd:#f8f8f2:#545454:#ff6e6e:#69ff94:#ffcb6b:#d6acff:#ff92df:#a4ffff:#f8f8f2"
+    use_system_font = False
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+      profile = default
+[plugins]

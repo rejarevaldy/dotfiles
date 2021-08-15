@@ -88,47 +88,6 @@ fi
 # colored GCC warnings and errors
 #export GCC_COLORS='error=01;31:warning=01;35:note=01;36:caret=01;32:locus=01:quote=01'
 
-#  aliases
-alias ll='ls -alF'
-alias la='ls -A'
-alias l='ls -CF'
-alias xampp='cd /opt/lampp && sudo ./manager-linux-x64.run'
-
-alias sdisk='ncdu'
-
-alias diskspace="du -S | sort -n -r |more"
-alias folders='du -h --max-depth=1'
-alias folderssort='find . -maxdepth 1 -type d -print0 | xargs -0 du -sk | sort -rn'
-alias tree='tree -CAhF --dirsfirst'
-alias treed='tree -CAFd'
-alias mountedinfo='df -hT'
-
-alias h="history | grep "
-alias date='date "+%Y-%m-%d %A %T %Z"'
-alias lock='xflock4'
-alias suspend='sudo pm-suspend'
-alias hibernate='sudo pm-hibernate'
-alias konek='ping 1.1.1.1'
-alias lt='tree'
-alias neofetch='clear && neofetch'
-alias todoedit='gedit /home/revv/Documents/todo'
-alias todolist='cat /home/revv/Documents/todo'
-
-#Github Alias
-
-alias commit='git commit -m '
-alias modified='git commit -ma'
-alias push='git push'
-alias stats='git status'
-alias graph='git log --all --decorate --oneline --graph'
-
-#Django Alias
-alias vlenv='virtualenv -p python3'
-alias djangorun='python3 manage.py runserver'
-alias migrate='python3 manage.py migrate'
-alias makemigrate='python3 manage.py makemigrations'
-
-
 #   sleep 10; alert
 alias alert='notify-send --urgency=low -i "$([ $? = 0 ] && echo terminal || echo error)" "$(history|tail -n1|sed -e '\''s/^\s*[0-9]\+\s*//;s/[;&|]\s*alert$//'\'')"'
 
