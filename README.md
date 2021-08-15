@@ -1,5 +1,5 @@
 
-# [DRACULA](https://github.com/revaldy-30/dotfiles/tree/master/Dracula)
+# [Dracula](https://github.com/revaldy-30/dotfiles/tree/master/Dracula)
 
 ## System Info</h1>
 
