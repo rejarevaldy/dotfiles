@@ -6,8 +6,9 @@
 
 <br>
 
-# Color
+# Info
 
++ **[Tabliss](https://addons.mozilla.org/en-US/firefox/addon/tabliss/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)**
 + **Background** : #171A1F
 + **Foreground** : #FFFFFF
 
