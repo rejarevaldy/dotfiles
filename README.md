@@ -56,5 +56,21 @@
 </p>
 <br>
 
+## xfce4-panel
+
++ **whisker menu**
++ **xfce-appmenu-plugin**
++ **seperator**
++ **windows button**
++ **xapp status plugin**
++ **power manager plugin**
++ **pulse audio plugin**
++ **clock**
++ **status tray plugin**
+
+
+
+
+
 
 
