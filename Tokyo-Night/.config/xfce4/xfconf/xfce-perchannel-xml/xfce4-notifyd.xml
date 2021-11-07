@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-notifyd" version="1.0">
+  <property name="notify-location" type="uint" value="3"/>
+  <property name="theme" type="string" value="Default"/>
+  <property name="initial-opacity" type="empty"/>
+  <property name="do-fadeout" type="bool" value="false"/>
+  <property name="applications" type="empty">
+    <property name="known_applications" type="array">
+      <value type="string" value="Firefox"/>
+      <value type="string" value="nm-applet"/>
+      <value type="string" value="org.gnome.Software"/>
+      <value type="string" value="thunar-volman"/>
+      <value type="string" value="Xfce volume control"/>
+      <value type="string" value="Xfce4-notifyd settings"/>
+      <value type="string" value="xfce4-power-manager"/>
+      <value type="string" value="xfce4-settings-helper"/>
+    </property>
+  </property>
+  <property name="plugin" type="empty">
+    <property name="log-only-today" type="bool" value="true"/>
+  </property>
+  <property name="primary-monitor" type="uint" value="0"/>
+  <property name="log-level" type="uint" value="0"/>
+  <property name="log-level-apps" type="uint" value="0"/>
+</channel>

@@ -1,0 +1,37 @@
+[global_config]
+  window_state = maximise
+  tab_position = hidden
+  broadcast_default = off
+  title_transmit_bg_color = "#000000"
+  inactive_color_offset = 0.8243243243243243
+  enabled_plugins = Logger, LaunchpadBugURLHandler, LaunchpadCodeURLHandler, APTURLHandler
+  suppress_multiple_term_dialog = True
+  always_split_with_profile = True
+  title_font = Noto Mono 15
+[keybindings]
+  go_down = <Super>Down
+  go_left = <Super>Left
+[profiles]
+  [[default]]
+    icon_bell = False
+    background_color = "#101010"
+    background_darkness = 1.0
+    cursor_color = "#aaaaaa"
+    font = Inconsolata Medium 12
+    foreground_color = "#ffffff"
+    show_titlebar = False
+    scrollbar_position = hidden
+    scroll_on_keystroke = False
+    palette = "#3b4252:#bf616a:#a3be8c:#ebcb8b:#81a1c1:#b48ead:#88c0d0:#e5e9f0:#4c566a:#bf616a:#a3be8c:#ebcb8b:#81a1c1:#b48ead:#8fbcbb:#eceff4"
+    use_system_font = False
+    use_theme_colors = True
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+      profile = default
+[plugins]
