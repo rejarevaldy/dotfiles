@@ -6,7 +6,6 @@
 </p>
 
 <br>
-<hr>
 
 # [Dracula](https://github.com/revaldy-30/dotfiles/tree/master/Dracula)
 
@@ -16,7 +15,6 @@
 </p>
 
 <br>
-<hr>
 
 
 # [Shiro](https://github.com/revaldy-30/dotfiles/tree/master/Shiro)
