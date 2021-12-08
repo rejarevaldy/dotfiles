@@ -22,7 +22,7 @@
     show_titlebar = False
     scrollbar_position = hidden
     scroll_on_keystroke = False
-    palette = "#3b4252:#bf616a:#a3be8c:#ebcb8b:#81a1c1:#b48ead:#88c0d0:#e5e9f0:#4c566a:#bf616a:#a3be8c:#ebcb8b:#81a1c1:#b48ead:#8fbcbb:#eceff4"
+    palette = "#363b54:#bf3f3f:#41a6b5:#e0af68:#7aa2f7:#bb9af7:#7dcfff:#787c99:#363b54:#f7768e:#41a6b5:#e0af68:#7aa2f7:#bb9af7:#7dcfff:#acb0d0"
     use_system_font = False
     use_theme_colors = True
 [layouts]
