@@ -1,6 +1,3 @@
-
-# [Lifeless](https://github.com/revaldy-30/dotfiles/tree/master/Lifeless)
-
 ## System Info</h1>
 
 + **OS**: Debian
@@ -13,12 +10,15 @@
 + **GTK Theme**: [Graphite](https://github.com/vinceliuice/Graphite-gtk-theme)
 + **Icons** : Tela Grey Dark
 + **Terminal** : Terminator
-+ **Color Pallete** : Japanesque
-+ **Ohmyzsh** 
-+ - Theme : Cypher 
-+ - Plugin : git
+
+## Ohmyzsh 
+
++ **Theme** : Cypher 
++ **Plugin** : git
 	zsh-autosuggestions
 	zsh-syntax-highlighting
++ **Color Pallete** : Japanesque
+
 
 <br>
 
