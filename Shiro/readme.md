@@ -1,6 +1,3 @@
-# [Shiro](https://github.com/revaldy-30/dotfiles/tree/master/Shiro)
-
-
 ## System Info</h1>
 
 + **OS**: [Linux Mint](https://linuxmint.com/)
