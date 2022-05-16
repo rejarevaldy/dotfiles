@@ -1,0 +1,84 @@
+.csd .titlebar {
+ border-radius: 0;
+}
+
+.window-frame {
+ border-radius: 0;
+}
+
+decoration, window, window.background, window.titlebar, * {
+border-radius: 0px;
+}
+
+.titlebar,
+.titlebar .background, * {
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+
+.window-frame {
+    border-radius: 0 0 0 0;
+}
+
+.background.csd {
+    border-radius: 0 0 0px 0px;
+}
+.background.maximized, .background.solid-csd {
+    border-radius: 0;
+}
+
+.window-frame, .window-frame:backdrop {
+ box-shadow: 0 0 0 black;
+ border-style: none;
+ margin: 0;
+ border-radius: 0;
+}
+
+.titlebar {
+ border-radius: 0;
+} 
+
+
+.tasklist image {
+
+background: rgba(255, 0, 0, 0);
+
+-gtk-icon-transform: scale(0);
+
+}
+
+.tasklist label {
+
+margin: 0px 0px 0px -23px;
+
+}
+
+* {
+	-ThunarAbstractIconView-row-spacing: 10;
+	-ThunarAbstractIconView-column-spacing: 20;
+}
+.thunar .standard-view .view {  }
+.thunar .sidebar .view { padding: 3px 2px; }
+.thunar .sidebar .view:hover { }
+
+
+* {
+	-XfdesktopIconView-ellipsize-icon-labels:10;
+	-XfdesktopIconView-cell-spacing:10;
+	-XfdesktopIconView-cell-padding:10;
+}
+
+
+VteTerminal, vte-terminal { padding: 9px; }
+
+
+
+#XfceNotifyWindow progressbar { border-radius: 5px; }
+#XfceNotifyWindow progressbar progress { min-height: 4px; }
+#XfceNotifyWindow progressbar trough { min-height: 4px; }
+
+
+
